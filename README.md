@@ -9,7 +9,7 @@ I am a dedicated design professional and software developer with a background in
 - Backend web development (Python, Django)
 - UX/UI 
 - Design Thinking
-- Graphic Design and Typeface
+- Graphic Design and Typography
 - 3D modeling
 
 # Current Projects 📚
