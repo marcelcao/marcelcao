@@ -24,4 +24,4 @@ I am a dedicated design professional and software developer with a background in
 # Connect with Me! 🙋🏻‍♀️
 - [Portfolio Site](https://marcelcao.dev)
 - [LinkedIn](https://linkedin.com/in/mara-caoile)
-- [Youtube](https://https://www.youtube.com/@marcelcao_art)
+- [Youtube](https://www.youtube.com/@marcelcao_art)
