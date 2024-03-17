@@ -13,8 +13,9 @@ I am a dedicated design professional and software developer with a background in
 - 3D modeling
 
 # Recent Projects 📚
+- [Watch Party](https://github.com/marcelcao/watchparty-client) - Final Capstone for Nashville Software School (full-stack)
 - [Hip-Hop Pizza and Wangs](https://github.com/marcelcao/bangazon-pizza-client) - Point of Sale Application (full-stack)
-- [freshlook](https://github.com/marcelcao/freshlook-frontend-capstone) - Skincare Management Application (front-end)
+
 
 # Technologies I Use 💻
 - JavaScript, ReactJS, Python, Django
