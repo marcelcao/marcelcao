@@ -13,7 +13,7 @@ I am a dedicated design professional and software developer with a background in
 - 3D modeling
 
 # Recent Projects 📚
-- Currently learning: [TypeScript](https://github.com/marcelcao/typescript)
+- Currently working as a Software Engineer for [Repped In Tech](https://github.com/Repped-In-Tech)
 - [Watch Party](https://github.com/marcelcao/watchparty-client) - Final Capstone for Nashville Software School (full-stack)
 - [Hip-Hop Pizza and Wangs](https://github.com/marcelcao/bangazon-pizza-client) - Point of Sale Application (full-stack)
 
